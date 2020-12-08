@@ -1,4 +1,4 @@
-# Exercise. GCP Cloud Run. MySql. WordPress.  
+# GCP Cloud Run. MySql. WordPress.  
 
 ### 1.Step - Create MySql DB.  
 Create instance:   
